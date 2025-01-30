@@ -14,7 +14,6 @@ I aspire to create impactful solutions that seamlessly integrate cutting-edge te
 - Email: [himanshuvinchurkar1387@gmail.com](mailto:himanshuvinchurkar1387@gmail.com)
 - Portfolio: [himanshu80.netlify.app](https://himanshu80.netlify.app)
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/himanshu-vinchurkar-9b414322b/)
-- Resume: [Download my resume](https://drive.google.com/file/d/1ajOKeIn8pe0Mi-nv5oiCe9tqRkqUx6ay/view)
 
 ## 🛠️ Languages & Tools:
 Below are the technologies I work with:
@@ -43,4 +42,4 @@ Here’s a quick snapshot of my GitHub activity:
 ---
 
 ## 🚀 Featured Projects:
-Feel free to explore the projects I've worked on. They reflect my skills in building applications, improving functionality, and implementing innovative solutions in the domains of **iOS development**, **AI**, and **Machine Learning**.
+Feel free to explore the projects I've worked on. They reflect my skills in building applications, improving functionality, and implementing innovative solutions in the domains of **AI**, and **Machine Learning**.
