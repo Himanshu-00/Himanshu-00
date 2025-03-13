@@ -16,6 +16,7 @@ Below are the technologies I work with:
 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![PyTorch](https://camo.githubusercontent.com/45bdfebccd1455283dd657a6dd2fcbcd8a4b69fde27130aa26003deaaa9271ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696768746e696e672d3739324545353f6c6f676f3d6c696768746e696e67266c6f676f436f6c6f723d666666267374796c653d666c6174)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
