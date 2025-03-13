@@ -10,10 +10,6 @@ Whether it's building intelligent systems, developing generative models, or refi
 ## 📚 My Objective
 I aspire to create impactful solutions that seamlessly integrate cutting-edge technologies, enhancing both functionality and user experience.
 
-## 📫 How to Reach Me:
-- Email: [himanshuvinchurkar1387@gmail.com](mailto:himanshuvinchurkar1387@gmail.com)
-- Portfolio: [himanshu80.netlify.app](https://himanshu80.netlify.app)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/himanshu-vinchurkar-9b414322b/)
 
 ## 🛠️ Languages & Tools:
 Below are the technologies I work with:
