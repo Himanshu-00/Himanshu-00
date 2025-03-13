@@ -34,12 +34,6 @@ Below are the technologies I work with:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-## 📊 GitHub Stats:
-Here’s a quick snapshot of my GitHub activity:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-00&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 
 ## 🚀 Featured Projects:
 Feel free to explore the projects I've worked on. They reflect my skills in building applications, improving functionality, and implementing innovative solutions in the domains of **AI**, and **Machine Learning**.
